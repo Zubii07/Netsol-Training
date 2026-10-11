@@ -1,1 +1,1 @@
-# Netsol-Training
+# Netsol Training
