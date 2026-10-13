@@ -1,1 +1,1 @@
-# Netsol Training
+# Netsol AI/ML Training
